@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">laboratoire 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_activity">Activité principale</string>
+
+    <string name="title_activity_a_i_">Activité IA</string>
+    <string name="title_activity_v_r_">Activité VR</string>
+    <string name="on_create">Lors de la création exécuté</string>
+    <string name="on_start">sur Démarrer exécuté</string>
+</resources>
